@@ -40,8 +40,6 @@ You can install the `.ipa` using any of the following tools:
 - **ESign** – direct install from iOS
 - **TrollStore** – for devices using TrollStore-compatible iOS versions
 
-> ⚠️ Requires a valid Apple ID or jailbroken device for sideloading.
-
 ---
 
 ## 📦 Notes
