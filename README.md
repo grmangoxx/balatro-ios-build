@@ -57,11 +57,9 @@ You can install the `.ipa` using any of the following tools:
 - **Original Game**: *Balatro* by LocalThunk
 - **iOS Port**: [driftywinds](https://github.com/driftywinds/balatro-builds)
 - **Mod Authors**:
-  - NoxZet – CozyStats
-  - jfmmm – Dragging
-  - Steamodded – MoreSpeed
-- **Modded Package**: [YourNameHere]
-
+  - **CozyStats** by [NoxZet](https://github.com/NoxZet)
+  - **Dragging** by [jfmmm](https://github.com/jfmmm)
+  - **MoreSpeed** by [Steamodded](https://github.com/Steamodded)
 ---
 
 ## 📜 Legal
