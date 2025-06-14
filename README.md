@@ -1,6 +1,6 @@
-# Balatro iOS – Modded Build (.ipa Release)
+# Balatro iOS – Modded Build
 
-A **modded iOS build** of *Balatro*, the roguelike deck-building card game, bundled as an `.ipa` for sideloading.
+A **modded iOS build** of *Balatro*, the roguelike deck-building card game.
 
 > ⚠️ Fan-made release for **personal and educational purposes only**. All rights belong to the original game creators.
 
@@ -39,14 +39,6 @@ You can install the `.ipa` using any of the following tools:
 - **Sideloadly** – supports free Apple IDs
 - **ESign** – direct install from iOS
 - **TrollStore** – for devices using TrollStore-compatible iOS versions
-
----
-
-## 📦 Notes
-
-- No source code or app icon included
-- `.ipa` file only – check [Releases](../../releases) tab
-- You must legally own the game to support the developers
 
 ---
 
