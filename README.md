@@ -1,49 +1,63 @@
 # Balatro iOS – Modded Build (.ipa Release)
 
-This is a **modded iOS build** of *Balatro*, the roguelike deck-building game — packaged as an `.ipa` for easy installation.
+A **modded iOS build** of *Balatro*, the roguelike deck-building game, distributed as an `.ipa` file for easy sideloading on iPhones and iPads.
 
-> ⚠️ **Disclaimer**: This is a fan-made build for **personal and educational purposes only**. All rights to the original game belong to its developers.
+> ⚠️ **Disclaimer**: This is a fan-made project for **educational and personal use only**. All rights to the original game belong to its creators.
 
 ---
 
 ## 📦 What's Included
 
-- `.ipa` file with custom modifications
-- Playable on iOS devices (via sideloading)
+- Prebuilt `.ipa` with injected mods
+- No source code — release only contains the binary build
+- No app icon customization
+
+---
+
+## 🎛️ Mod Menu
+
+This build includes the following **gameplay and UI enhancements**:
+
+### ✅ CozyStats  
+Adds detailed in-game statistics and tracking.  
+🔗 [CozyStats on GitHub](https://github.com/NoxZet/CozyStats/)
+
+### ✅ Dragging  
+Adds smooth, mobile-style card dragging like native iOS apps.  
+🔗 [BalatroMobileLikeDragging on GitHub](https://github.com/jfmmm/BalatroMobileLikeDragging)
+
+### ✅ MoreSpeed  
+Speeds up animations and overall game flow.  
+🔗 [MoreSpeed Mod (Lua)](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua)
 
 ---
 
 ## 📱 Installation
 
-You can install the `.ipa` using:
+Install the `.ipa` using one of the following tools:
 
-- **AltStore**
+- **AltStore** (recommended)
 - **Sideloadly**
-- **Xcode (manual deployment)**
-- **Cydia Impactor** *(if supported)*
+- **Xcode** (manual deploy)
+- **Cydia Impactor** *(if still supported)*
 
-> Requires a valid Apple ID (free or paid dev account)
-
----
-
-## 📝 Notes
-
-- No source code or icon included
-- Mods may affect balance or visuals
-- You must own the original game to support the developers
+> Requires Apple ID login or dev certificate.
 
 ---
 
 ## ✅ Credits
 
-- Original Game: **Balatro** by *LocalThunk*
-- iOS Port & Mods: [YourNameHere or Anonymous]
-- Community tools used for packaging and sideloading
+- Original Game: *Balatro* by **LocalThunk**
+- iOS Packaging & Mods: [YourName or Handle]
+- Mod Authors:
+  - **CozyStats** by [NoxZet](https://github.com/NoxZet)
+  - **Dragging** by [jfmmm](https://github.com/jfmmm)
+  - **MoreSpeed** by [Steamodded](https://github.com/Steamodded)
 
 ---
 
-## 📜 Legal
+## 📜 Legal Notice
 
-This repository hosts a **modded build only**, with **no commercial intent**.  
-If you're the rights holder and would like this removed or credited differently, please open an issue.
+This project is not affiliated with or endorsed by the original developers.  
+If you are a rights holder and wish to request removal or credit adjustments, please open an issue or contact the maintainer directly.
 
