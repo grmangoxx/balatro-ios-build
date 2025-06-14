@@ -1,63 +1,73 @@
 # Balatro iOS – Modded Build (.ipa Release)
 
-A **modded iOS build** of *Balatro*, the roguelike deck-building game, distributed as an `.ipa` file for easy sideloading on iPhones and iPads.
+A **modded iOS build** of *Balatro*, the roguelike deck-building card game, bundled as an `.ipa` for sideloading.
 
-> ⚠️ **Disclaimer**: This is a fan-made project for **educational and personal use only**. All rights to the original game belong to its creators.
-
----
-
-## 📦 What's Included
-
-- Prebuilt `.ipa` with injected mods
-- No source code — release only contains the binary build
-- No app icon customization
+> ⚠️ Fan-made release for **personal and educational purposes only**. All rights belong to the original game creators.
 
 ---
 
-## 🎛️ Mod Menu
+## 📥 Original iOS Build
 
-This build includes the following **gameplay and UI enhancements**:
+This modded version is based on the original iOS port by [driftywinds](https://github.com/driftywinds/balatro-builds).
+
+GitHub:  
+🔗 https://github.com/driftywinds/balatro-builds
+
+---
+
+## 🎛️ Mod Menu (Included Mods)
 
 ### ✅ CozyStats  
-Adds detailed in-game statistics and tracking.  
-🔗 [CozyStats on GitHub](https://github.com/NoxZet/CozyStats/)
+Displays in-depth gameplay statistics and session data.  
+🔗 [CozyStats by NoxZet](https://github.com/NoxZet/CozyStats/)
 
 ### ✅ Dragging  
-Adds smooth, mobile-style card dragging like native iOS apps.  
-🔗 [BalatroMobileLikeDragging on GitHub](https://github.com/jfmmm/BalatroMobileLikeDragging)
+Improves card dragging with smooth, mobile-style behavior.  
+🔗 [BalatroMobileLikeDragging by jfmmm](https://github.com/jfmmm/BalatroMobileLikeDragging)
 
 ### ✅ MoreSpeed  
-Speeds up animations and overall game flow.  
-🔗 [MoreSpeed Mod (Lua)](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua)
+Speeds up in-game animations for faster gameplay flow.  
+🔗 [MoreSpeeds.lua by Steamodded](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua)
 
 ---
 
-## 📱 Installation
+## 📱 Installation Methods
 
-Install the `.ipa` using one of the following tools:
+You can install the `.ipa` using any of the following tools:
 
-- **AltStore** (recommended)
-- **Sideloadly**
-- **Xcode** (manual deploy)
-- **Cydia Impactor** *(if still supported)*
+- **AltStore** – via Wi-Fi sync or USB
+- **Sideloadly** – supports free Apple IDs
+- **ESign** – direct install from iOS
+- **TrollStore** – for devices using TrollStore-compatible iOS versions
 
-> Requires Apple ID login or dev certificate.
+> ⚠️ Requires a valid Apple ID or jailbroken device for sideloading.
+
+---
+
+## 📦 Notes
+
+- No source code or app icon included
+- `.ipa` file only – check [Releases](../../releases) tab
+- You must legally own the game to support the developers
 
 ---
 
 ## ✅ Credits
 
-- Original Game: *Balatro* by **LocalThunk**
-- iOS Packaging & Mods: [YourName or Handle]
-- Mod Authors:
-  - **CozyStats** by [NoxZet](https://github.com/NoxZet)
-  - **Dragging** by [jfmmm](https://github.com/jfmmm)
-  - **MoreSpeed** by [Steamodded](https://github.com/Steamodded)
+- **Original Game**: *Balatro* by LocalThunk
+- **iOS Port**: [driftywinds](https://github.com/driftywinds/balatro-builds)
+- **Mod Authors**:
+  - NoxZet – CozyStats
+  - jfmmm – Dragging
+  - Steamodded – MoreSpeed
+- **Modded Package**: [YourNameHere]
 
 ---
 
-## 📜 Legal Notice
+## 📜 Legal
 
-This project is not affiliated with or endorsed by the original developers.  
-If you are a rights holder and wish to request removal or credit adjustments, please open an issue or contact the maintainer directly.
+This repository is for non-commercial, educational purposes only.  
+No copyrighted assets are distributed.
 
+If you are a copyright holder and wish to request removal,  
+please [open an issue](../../issues) or contact the repository owner.
